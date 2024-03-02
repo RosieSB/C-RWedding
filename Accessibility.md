@@ -12,5 +12,3 @@ Baby changing? Breast feeding?
 
 Toilets?
 
-
-
