@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: Itinary
+- file: Itinerary
 - file: Food+Drink
 - file: Travel+Hotels
 - file: Accessibility
