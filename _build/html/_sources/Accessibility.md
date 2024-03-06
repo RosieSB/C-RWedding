@@ -1,6 +1,6 @@
 # Accessibility information
 
-The venue is wheel chair accessible and has a lift.
+The venue is wheelchair accessible and has a lift.
 
 Find out about hearing loop!
 
