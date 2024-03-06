@@ -1,4 +1,4 @@
-# Rough itinary
+# Rough itinerary
 <div align="center">
             
 |    	Time 	   |  Suggested activity |
