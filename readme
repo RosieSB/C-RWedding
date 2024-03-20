@@ -12,7 +12,8 @@ jupyter-book build C-RWedding/
 3. Sync with main branch of this repository
 
 4. Use 
-ghp-import -n -p -f C-RWedding/_build/html
+cd C-RWedding
+ghp-import -n -p -f _build/html
 to push the newly built HTML to the gh-pages branch of this repository.
 
 This will require signing in
