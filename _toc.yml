@@ -6,6 +6,6 @@ root: intro
 chapters:
 - file: Itinerary
 - file: Food+Drink
-- file: Travel+Hotels
+- file: Getting-to-the-Venue
 - file: Accessibility
 - file: GiftList
