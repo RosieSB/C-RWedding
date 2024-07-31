@@ -10,6 +10,6 @@ There will be a quiet room on the ground floor for anyone needing a break from b
 
 Another smallish downstairs room will have toys and games, at least some of which may interest children. The venue also has an excellent garden.
 
-There are toilets downstairs and upstairs. Gender neutral toilets and baby changing are upstairs.
+There are gender neutral toilets downstairs and upstairs, and baby changing facilities upstairs.
 
 Breastfeeding is welcome anywhere at the venue.
