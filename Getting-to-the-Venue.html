@@ -307,7 +307,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -323,6 +325,16 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#by-tram">By tram</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#by-bus">By bus</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#by-car">By car</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -334,9 +346,20 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="getting-to-the-venue">
 <h1>Getting to the venue<a class="headerlink" href="#getting-to-the-venue" title="Permalink to this heading">#</a></h1>
+<section id="by-tram">
+<h2>By tram<a class="headerlink" href="#by-tram" title="Permalink to this heading">#</a></h2>
 <p>The venue, <a class="reference external" href="https://maps.app.goo.gl/JTQrL8GEKJfoqV6A7">Wood Lane Countryside Centre, Sheffield</a>, is about 12 minutes walk uphill from the Malin Bridge tram stop. There is a direct Blue tram from Sheffield Station, running about every 10 minutes.</p>
-<p>There are also frequent 81 and 82 buses from the town centre to a stop ~4mins from the venue.</p>
-<p>There is extremely limited parking at the venue itself, but you may find roadside parking on one of the residential streets nearby. There is also free parking at Malin Bridge Park and Ride, next to Malin Bridge tram stop.</p>
+</section>
+<section id="by-bus">
+<h2>By bus<a class="headerlink" href="#by-bus" title="Permalink to this heading">#</a></h2>
+<p>The closest bus stop is <a class="reference external" href="https://maps.app.goo.gl/AJDPZHL9DrLKYTjW6">Stannington Road/Wood Bank</a>, about 4 minutes walk from the venue. There are frequent 61, 62, 81 and 82 buses from Hillsborough and Sheffield town centre.</p>
+</section>
+<section id="by-car">
+<h2>By car<a class="headerlink" href="#by-car" title="Permalink to this heading">#</a></h2>
+<p>There is extremely limited parking at the venue itself, but there is free parking and electric vehicle charging at <a class="reference external" href="https://maps.app.goo.gl/YFufybstS2GbgUW97">Malin Bridge Park and Ride</a>, next to the Malin Bridge tram stop.</p>
+<p>There may also be roadside parking on one of the residential streets closer to the venue.</p>
+<p><a class="reference external" href="https://maps.app.goo.gl/JTQrL8GEKJfoqV6A7"><img alt="Wood Lane Countryside Centre, Sheffield" src="_images/map.png" /></a></p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -394,7 +417,22 @@ document.write(`
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"></div>
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#by-tram">By tram</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#by-bus">By bus</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#by-car">By car</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
