@@ -5,8 +5,6 @@ Prosecco and a non-alcoholic alternative will be served just after the ceremony,
 
 
 ## Main meal
-<!--[![Mount Lebanon](MountLebanon.png)](https://www.mountlebanon.co.uk/)-->
-
 The main meal will be a buffet lunch, served after the ceremony. It will be Lebanese cuisine, supplied by one our favourite restaurants, [Mount Lebanon](https://www.mountlebanon.co.uk/).
 
 There will be wine with dinner, provided by the venue. 
@@ -14,7 +12,7 @@ There will be wine with dinner, provided by the venue.
 ### Menu
 See the [Mount Lebanon menu](https://www.mountlebanon.co.uk/food-menu) for more details about any of the following dishes.
 
-Starters/Mezza: Houmous, Moutabel (Baba Ghanoush), Falafel, Fattoush (salad --- crispy bread separate), (flat)bread, (stuffed vine leaves), Sambousek (assorted pastries --- choice of lamb, chicken or vegetarian), Batata Harra (delicious potato cubes).
+Starters/Mezza: Houmous, Moutabel (Baba Ghanoush), Falafel, Fattoush (salad --- crispy bread separate), (flat)bread,Warak Inab Bil Zeit (stuffed vine leaves), Sambousek (assorted pastries --- choice of lamb, chicken or vegetarian), Batata Harra (delicious potato cubes).
 
 Mains: Chicken leg, Meatballs (lamb), Moussaka (vegan), Yellow rice, White rice (contains egg noodle segments).
 
