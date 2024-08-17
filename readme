@@ -6,7 +6,7 @@ To make changes to wedding website:
 1. Make changes to local md files in ~/Jupyter books/C-RWedding
 
 2. Rebuild jupyter book with 
-cd ~/Jupyter\ books
+cd ~/Wedding
 jupyter-book build C-RWedding/ 
 
 3. Sync with main branch of this repository
